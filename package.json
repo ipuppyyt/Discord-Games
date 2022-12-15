@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.0.0-dev.d433fe8.1626004976",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-fetch": "^2.6.1",
     "typescript": "^4.3.4"
   },
